@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Itunu Ijila",
+	"description": "A project that does something awesome",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
